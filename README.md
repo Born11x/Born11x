@@ -14,10 +14,9 @@
 ### 🛰️ NARIT Antenna Control System (NARIT-ACS)
 **Web-based Ground Station Control Platform**
 
-- Developed a web-based system for satellite tracking and antenna rotator control  
+- Developed a web-based system for satellite tracking and antenna control 
 - Implemented real-time satellite tracking visualization  
-- Integrated rotator command control (Manual & Automated Tracking)  
-- Designed satellite database management system  
+- Integrated rotator command control
 - Enabled remote browser-based operation  
 
 ---
@@ -74,5 +73,5 @@
 ---
 
 <p align="center">
-🚀 Keep Moving Forward — Nonstop Learning
+🚀 Keep Moving — Nonstop Learning
 </p>
