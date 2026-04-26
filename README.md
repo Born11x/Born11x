@@ -33,15 +33,7 @@
 
 ## 🌐 Connect with me
 
-<p align="center">
-<a href="https://fb.com/dovakynz" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50"/>
-</a>
-  <a>&emsp;</a>
-<a href="https://instagram.com/dovakynz" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="50"/>
-</a>
-</p>
+<a href="https://fb.com/dovakynz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50"/></a> <a href="https://instagram.com/dovakynz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="50"/></a>
 
 ---
 
